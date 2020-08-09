@@ -5,14 +5,20 @@ The school board has determined that there is evidence of academic dishonesty in
 ## Results
 
 ### District Summary
+Below is the District Summary, the first without adjustment, the second with adjustment to the 9th grade scores at Thomas High School. The academic dishonesty was significant enough to raise the passing percentages by one percent for math, reading, and overall. There was also a slight increase in the average reading score. However, the effects of the adjustment for Thomas High School will be more evident when looking at more specific analyses, as detiled below.
+
 Original District Summary without adjustment to 9th grade Thomas High School scores.
 ![District_Analysis_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/District_Analysis_module.png)
+
 Updated District Summary with adjustment to 9th grade Thomas High School scores.
 ![District_Analysis_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/District_Analysis_challenge.png)
 
 ### School Summary
+Below is the School Summary, the first without adjustment, the second with adjustment to the 9th grade scores at Thomas High School. The academic dishonesty was significant enough to raise the passing percentages by one percent for math, reading, and overall. There was also a slight increase in the average reading score. However, the effects of the adjustment for Thomas High School will be more evident when looking at more specific analyses, as detiled below.
+
 Original School Summary without adjustment to 9th grade Thomas High School scores.
 ![School_Summary_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/School_Summary_module.png)
+
 Updated School Summary with adjustment to 9th grade Thomas High School scores.
 ![School_Summary_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/School_Summary_challenge.png)
 
@@ -21,6 +27,7 @@ Based on overall passing rate, these are the top five schools in the district.
 
 Original Top Five Performing Schools without adjustment to 9th grade Thomas High School scores.
 ![Top_5_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Top_5_module.png)
+
 Updated Top Five Performing Schools with adjustment to 9th grade Thomas High School scores.
 ![Top_5_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Top_5_challenge.png)
 
@@ -28,36 +35,44 @@ Updated Top Five Performing Schools with adjustment to 9th grade Thomas High Sch
 Based on overall passing rate, these are the bottom five schools in the district.
 Original Bottom Five Performing Schools without adjustment to 9th grade Thomas High School scores.
 ![Bottom_5_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Bottom_5_module.png)
+
 Updated Bottom Five Performing Schools with adjustment to 9th grade Thomas High School scores.
 ![Bottom_5_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Bottom_5_challenge.png)
 
 ### Avergage Math Score by School and Grade Level
 Original Avergage Math Score by School and Grade Level without adjustment to 9th grade Thomas High School scores.
 ![Avg_Math_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Math_module.png)
+
 Updated District Analysis with adjustment to 9th grade Thomas High School scores.
 ![Avg_Math_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Math_challenge.png)
 
 ### Avergage Reading Score by School and Grade Level
 Original Avergage Math Score by School and Grade Level without adjustment for 9th grade Thomas High School scores.
 ![Avg_Reading_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Reading_module.png)
+
 Updated District Analysis with adjustment to 9th grade Thomas High School scores.
 ![Avg_Reading_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Reading_challenge.png)
 
 ### Scores by School Spending Per Student
+
+
 Original Scores by School Spending Per Student without adjustment for 9th grade Thomas High School scores.
 ![Score_by_Spending_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Score_by_Spending_module.png)
+
 Updated Scores by School Spending Per Student with adjustment to 9th grade Thomas High School scores.
 ![Score_by_Spending_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Score_by_Spending_challenge.png)
 
 ### Scores by School Size
 Original Scores by School Size without adjustment for 9th grade Thomas High School scores.
 ![Score_by_Size_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Score_by_Size_module.png)
+
 Updated Scores by School Size with adjustment to 9th grade Thomas High School scores.
 ![Score_by_Size_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Score_by_Size_challenge.png)
 
 ### Scores by School Type
 Original Scores by School Type without adjustment for 9th grade Thomas High School scores.
 ![Score_by_Type_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Score_by_Type_module.png)
+
 Updated Scores by School Type with adjustment to 9th grade Thomas High School scores.
 ![Score_by_Type_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Score_by_Type_challenge.png)
 
