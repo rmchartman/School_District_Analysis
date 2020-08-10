@@ -47,12 +47,12 @@ Updated Bottom Five Performing Schools with adjustment to 9th grade Thomas High 
 ### Avergage Math Score by School and Grade Level
 Below is the Avergage Math Score by School and Grade Level, the first table is without adjustment, the second with adjustment to the 9th grade scores at Thomas High School. In order to adjust the scores for Thomas High School, the scores for 9th grade math were replaced with NaN (null) to be excluded from the analysis. This can be seen as there is no average score for 9th grade at Thomas High School in the second table.
 
-![Avg_Math_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Math_module.png)![Avg_Math_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Math_challenge.png)
+![Avg_Math_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Math_module.png)  ![Avg_Math_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Math_challenge.png)
 
 ### Avergage Reading Score by School and Grade Level
 Below is the Avergage Reading Score by School and Grade Level, the first table is without adjustment, the second with adjustment to the 9th grade scores at Thomas High School. In order to adjust the scores for Thomas High School, the scores for 9th grade reading were replaced with NaN (null) to be excluded from the analysis. This can be seen as there is no average score for 9th grade at Thomas High School in the second table.
 
-![Avg_Reading_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Reading_module.png)![Avg_Reading_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Reading_challenge.png)
+![Avg_Reading_module.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Reading_module.png)  ![Avg_Reading_challenge.png](https://github.com/rmchartman/School_District_Analysis/blob/master/Resources/Avg_Reading_challenge.png)
 
 ### Scores by School Spending Per Student
 Below is the Scores by School Spending Per Student, the first table is without adjustment, the second with adjustment to the 9th grade scores at Thomas High School. The academic dishonesty was significant enough to raise the passing percentages by 6 percent for math, 7 percent for reading, and 7 percent for overall passing for the schools who have the budget to spend $630-644 per student.
